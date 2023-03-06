@@ -1,0 +1,16 @@
+accessibility_id = Like button. Double tap and hold to react.
+
+accessibility_id = Navigate to your Reels profile
+
+accessibility_id = Create reel
+accessibility_id = Gallery
+
+xpath = (//android.view.ViewGroup[@content-desc="Video"])[2]
+
+accessibility_id = Next
+
+
+class_name = android.widget.EditText
+	
+accessibility_id = Share now
+
